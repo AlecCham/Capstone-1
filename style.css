@@ -1,0 +1,5 @@
+/* styles.css */
+.aligned-text {
+    text-align: justify;
+    text-justify: inter-word;
+}
